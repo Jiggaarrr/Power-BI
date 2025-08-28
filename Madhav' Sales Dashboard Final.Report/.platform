@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Madhav' Sales Dashboard Final"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4c86eaad-09cf-4941-928f-b4efc261a1f0"
+  }
+}
